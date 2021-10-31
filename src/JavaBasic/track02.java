@@ -16,6 +16,7 @@ public static void main(String[] args) {
 
 	}else {
 		System.out.println("User will not buy a house");
+		System.out.println("User will rent a house");
 	}
 }
 
